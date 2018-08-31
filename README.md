@@ -1,4 +1,5 @@
-# perspective
+# Perspective
+
 The Project Name is called "perspective", in Tamil (google it) it also means forward thinking.
 
 # Why?
@@ -25,12 +26,12 @@ Now Imagine that you can light these individual pixels with messages from People
 For e.g let's say Masha donates to her fav charity "black girls who code" and she donates for her favoriate niece in the whole
 wide world "To Sasha-from Ant" [15 chars), the message can be displayed on the Starboard which each pixel represent a character. 
 
-#Live Feed
+# Proposal 
 
 I propose that Starboard get's live-streamed for a fixed amount time, so when in this case Masha donates to her fav neice Sasha for her
 coding class she can see the Starboard light up. This is just the begining now let us all use our imagination.
 
-#How can you help?
+# How can you help?
 
 Coding and Devops  help is needed, but all are welcome to participate. 
 
