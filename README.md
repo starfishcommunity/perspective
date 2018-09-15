@@ -8,7 +8,7 @@ The Decentrilization movement should be more more inclusive, there are different
 and perspective is one of them.
 
 # What has Starfish has to do something with this?
-<< Add Starfish Mision/Vison etc> - To Do
+Starfish Mission is a pioneering hub for the blockchain community - founded by the Starfish Network. Starfish Network is dedicated to creating spaces and learning opportunities for the community which inspires the Starfish team.
 
 # A short story 
 << Ann Marie>> and Starfish team created this amazing project which includes audio visual mechanism for adding an artisitic element 
